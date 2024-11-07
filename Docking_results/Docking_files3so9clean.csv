@@ -1,4 +1,4 @@
-ligand,Energy,RMSD,Fitness quality,Confidence Score (%)
+ligand,Docking score,RMSD,Fitness quality,Confidence Score (%)
 aptamerd41,-411.73,33.53,-268.33,99.47
 aptamerd383,-400.13,44.28,-271.76,99.332
 aptamerd365,-393.44,28.66,-268.12,99.238
